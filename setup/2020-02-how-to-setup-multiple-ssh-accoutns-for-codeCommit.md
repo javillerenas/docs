@@ -50,3 +50,7 @@ When you do so, make sure you COPY the `SSH_KEY_ID` since it will be the value f
 4. Git the `SSH_KEY_ID` and the `NAME_FOR_SSH_ID_X` open `~/.ssh/config` and setup as shown above.
 
 5. Repeat for the other account.
+
+# Additional Information
+* https://gist.github.com/justinpawela/3a7056cd592d688425e59de2ef6f1da0
+* https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-ssh-unixes.html
